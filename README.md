@@ -1,6 +1,6 @@
 <p align="center"> 🚧 Em construção 🚧 </p>
 
-<h1 align="center"> Portfólio - Fernando Rufino </h1>
+<h1 align="center"> Portfólio - Lucas Schneider </h1>
 
 <p align="center">
 Esse é o meu portfólio pessoal, onde falo um pouco sobre mim e apresento alguns dos meus projetos.
@@ -41,9 +41,7 @@ Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos 
 - [x] implementado seleção de dark e light mode para visualização da página.
 <br>
 
-- Acesse o projeto finalizado, [clicando aqui](https://fernandoalvesrufino.github.io/meu-portfolio/).
 
-## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/LOmPDxQYg0uubbhVuhCP0v/Portf%C3%B3lio---FR---README?t=J5d0KF5hSEXZlZbK-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
@@ -53,4 +51,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-by Fernando Rufino <img src="./img/bussola.svg" alt="" width="20rem" align="center">
+by Lucas Schneider <img src="./img/bussola.svg" alt="" width="20rem" align="center">
